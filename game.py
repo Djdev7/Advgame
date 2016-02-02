@@ -30,8 +30,7 @@ def start_scream():
 			start()
 
 	elif choice == "2":
-		print room_discrip
-		surround = false
+		print room_discrip    
 
 def start():
 
